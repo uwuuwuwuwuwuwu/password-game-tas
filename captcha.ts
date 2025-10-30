@@ -18,4 +18,5 @@ export async function sniffCaptcha() {
     }
 
     return { captcha, rerolls };
+    
 }
